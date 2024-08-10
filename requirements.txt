@@ -1,0 +1,7 @@
+# Ferramentas necessárias para rodar o script verificar_hashes.sh
+
+md5sum    # Ferramenta de checagem de soma de verificação MD5
+awk       # Ferramenta de processamento de texto
+grep      # Ferramenta de busca em texto
+bash      # Shell script para executar o código
+
