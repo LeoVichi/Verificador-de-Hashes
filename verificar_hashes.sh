@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Caminhos das pastas
-pasta_origem="/home/lenny/Documents/Dropbox/Modelos Leonardo VIchi/TIC/Bash scripts/pasta origem"
-pasta_destino="/home/lenny/Documents/Dropbox/Modelos Leonardo VIchi/TIC/Bash scripts/pasta destino"
+pasta_origem="/pasta origem"
+pasta_destino="/pasta destino"
 
 # Gerar somas de verificação no disco original
 echo "Gerando somas de verificação MD5 para a pasta original..."
